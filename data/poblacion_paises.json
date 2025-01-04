@@ -1,0 +1,360 @@
+{
+  "maxPob2019": 1397715000,
+  "minPob2019": 42813238,
+  "maxPob1969": 796025000,
+  "minPob1969": 9127857,
+  "paises": [
+    {
+      "nombre": "China",
+      "codigo": "(CHN)",
+      "pob2019": 1397715000,
+      "pob1969": 796025000,
+      "asia": true,
+      "ejex": 1000,
+      "ejey": 380,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "India",
+      "codigo": "(IND)",
+      "pob2019": 1366417754,
+      "pob1969": 543084336,
+      "asia": true,
+      "ejex": 910,
+      "ejey": 400,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Estados Unidos",
+      "codigo": "(USA)",
+      "pob2019": 328239523,
+      "pob1969": 202677000,
+      "asia": false,
+      "ejex": 370,
+      "ejey": 350,
+      "imagen": "Banderas/China.png"
+
+    },
+    {
+      "nombre": "Indonesia",
+      "codigo": "(IDN)",
+      "pob2019": 270625568,
+      "pob1969": 111758563,
+      "asia": true,
+      "ejex": 1010,
+      "ejey": 535,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Pakistán",
+      "codigo": "(PAK)",
+      "pob2019": 216565318,
+      "pob1969": 56598144,
+      "asia": true,
+      "ejex": 880,
+      "ejey": 400,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Brasil",
+      "codigo": "(BRA)",
+      "pob2019": 211049527,
+      "pob1969": 92746614,
+      "asia": false,
+      "ejex": 520,
+      "ejey": 550,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Nigeria",
+      "codigo": "(NGA)",
+      "pob2019": 200963599,
+      "pob1969": 54717039,
+      "asia": false,
+      "ejex": 700,
+      "ejey": 440,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Bangladesh",
+      "codigo": "(BGD)",
+      "pob2019": 163046161,
+      "pob1969": 62679765,
+      "asia": true,
+      "ejex": 940,
+      "ejey": 420,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Rusia",
+      "codigo": "(RUS)",
+      "pob2019": 144373535,
+      "pob1969": 129664000,
+      "asia": false,
+      "ejex": 1000,
+      "ejey": 250,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "México",
+      "codigo": "(MEX)",
+      "pob2019": 127575529,
+      "pob1969": 49945279,
+      "asia": false,
+      "ejex": 350,
+      "ejey": 420,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Japón",
+      "codigo": "(JPN)",
+      "pob2019": 126264931,
+      "pob1969": 103172000,
+      "asia": true,
+      "ejex": 1100,
+      "ejey": 360,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Etiopía",
+      "codigo": "(ETH)",
+      "pob2019": 112078730,
+      "pob1969": 27652709,
+      "asia": false,
+      "ejex": 790,
+      "ejey": 480,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Filipinas",
+      "codigo": "(PHL)",
+      "pob2019": 108116615,
+      "pob1969": 34786305,
+      "asia": true,
+      "ejex": 1050,
+      "ejey": 480,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Egipto",
+      "codigo": "(EGY)",
+      "pob2019": 100388073,
+      "pob1969": 33703139,
+      "asia": false,
+      "ejex": 760,
+      "ejey": 400,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Vietnam",
+      "codigo": "(VNM)",
+      "pob2019": 96462106,
+      "pob1969": 42307146,
+      "asia": true,
+      "ejex": 990,
+      "ejey": 420,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Congo",
+      "codigo": "(COD)",
+      "pob2019": 86790567,
+      "pob1969": 19459816,
+      "asia": false,
+      "ejex": 720,
+      "ejey": 520,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Turquía",
+      "codigo": "(TUR)",
+      "pob2019": 83429615,
+      "pob1969": 34055390,
+      "asia": false,
+      "ejex": 765,
+      "ejey": 355,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Alemania",
+      "codigo": "(DEU)",
+      "pob2019": 83132799,
+      "pob1969": 77909682,
+      "asia": false,
+      "ejex": 700,
+      "ejey": 300,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Irán",
+      "codigo": "(IRN)",
+      "pob2019": 82913906,
+      "pob1969": 27764924,
+      "asia": true,
+      "ejex": 830,
+      "ejey": 385,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Tailandia",
+      "codigo": "(THA)",
+      "pob2019": 69625582,
+      "pob1969": 35827092,
+      "asia": true,
+      "ejex": 980,
+      "ejey": 450,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Francia",
+      "codigo": "(FRA)",
+      "pob2019": 67059887,
+      "pob1969": 51561836,
+      "asia": false,
+      "ejex": 675,
+      "ejey": 320,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Reino Unido",
+      "codigo": "(GBR)",
+      "pob2019": 66834405,
+      "pob1969": 55441750,
+      "asia": false,
+      "ejex": 660,
+      "ejey": 280,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Italia",
+      "codigo": "(ITA)",
+      "pob2019": 60297396,
+      "pob1969": 53537950,
+      "asia": false,
+      "ejex": 715,
+      "ejey": 350,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Sudáfrica",
+      "codigo": "(ZAF)",
+      "pob2019": 58558270,
+      "pob1969": 21496075,
+      "asia": false,
+      "ejex": 740,
+      "ejey": 630,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Tanzanía",
+      "codigo": "(TZA)",
+      "pob2019": 58005463,
+      "pob1969": 13120580,
+      "asia": false,
+      "ejex": 780,
+      "ejey": 540,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Myanmar",
+      "codigo": "(MMR)",
+      "pob2019": 54045420,
+      "pob1969": 26635849,
+      "asia": true,
+      "ejex": 960,
+      "ejey": 430,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Kenya",
+      "codigo": "(KEN)",
+      "pob2019": 52573973,
+      "pob1969": 10910675,
+      "asia": false,
+      "ejex": 790,
+      "ejey": 520,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Corea del Sur",
+      "codigo": "(KOR)",
+      "pob2019": 51709098,
+      "pob1969": 31544266,
+      "asia": true,
+      "ejex": 1065,
+      "ejey": 370,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Colombia",
+      "codigo": "(COL)",
+      "pob2019": 50339443,
+      "pob1969": 20942453,
+      "asia": false,
+      "ejex": 440,
+      "ejey": 500,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "España",
+      "codigo": "(ESP)",
+      "pob2019": 47076781,
+      "pob1969": 33441054,
+      "asia": false,
+      "ejex": 660,
+      "ejey": 350,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Argentina",
+      "codigo": "(ARG)",
+      "pob2019": 44938712,
+      "pob1969": 23517611,
+      "asia": false,
+      "ejex": 460,
+      "ejey": 680,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Ucrania",
+      "codigo": "(UKR)",
+      "pob2019": 44385155,
+      "pob1969": 46749283,
+      "asia": false,
+      "ejex": 780,
+      "ejey": 310,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Uganda",
+      "codigo": "(UGA)",
+      "pob2019": 44269594,
+      "pob1969": 9127857,
+      "asia": false,
+      "ejex": 770,
+      "ejey": 520,
+      "imagen": "Banderas/China.png"
+
+    },
+    {
+      "nombre": "Argelia",
+      "codigo": "(DZA)",
+      "pob2019": 43053054,
+      "pob1969": 14061722,
+      "asia": false,
+      "ejex": 680,
+      "ejey": 400,
+      "imagen": "Banderas/China.png"
+    },
+    {
+      "nombre": "Sudán",
+      "codigo": "(SDN)",
+      "pob2019": 42813238,
+      "pob1969": 9954410,
+      "asia": false,
+      "ejex": 760,
+      "ejey": 450,
+      "imagen": "Banderas/China.png"
+    }
+  ]
+}
